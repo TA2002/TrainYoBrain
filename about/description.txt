@@ -1,0 +1,10 @@
+Nowadays a great amount of students of 6th grade are eager get into Nazarbayev Intellectual Schools(NIS), BIL, 
+NurOrda and other prestigious schools.In fact, students have to pass logical tests and get necessary points. 
+However, most of them do not succeed in these tests. We think that this issue is actual today, 
+because parents spend a lot of money to prepare their children for the exams. So, we made a mini research on 
+this problem and it turned out that the average score in logical section is 80 out of 135, therefore we 
+decided to resolve actual issue by developing an educative and free software for children. 
+The aim of the project is to improve memory, speed and logic of a child. 
+The application was written using C# and Python(with “Pygame” module). 
+There are many puzzle collection sites and applications, but “TrainYoBrain” has unique set of exercises 
+which focus on getting into prestigious schools and improves mind skills alongside with language.
